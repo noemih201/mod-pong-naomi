@@ -1,6 +1,6 @@
 Moddable Pong – Naomi Mod
 
-This is a modded version of the Moddable Pong project for the Godot Boot Camp 2025 (Week 1, Session 2).
+This is a modded version of the Moddable Pong project for the Godot Boot Camp 2025 (Week 1, Session 1).
 
 Mod Details
 
